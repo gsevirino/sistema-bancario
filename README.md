@@ -1,4 +1,5 @@
-![](https://cdn-icons-png.flaticon.com/512/10069/10069014.png)
+<img src="https://cdn-icons-png.flaticon.com/512/10069/10069014.png" alt="your_alternative_text" width="150" height="150" loop=infinite>
+
 
 ## Descrição do repositório
 
@@ -28,5 +29,3 @@ O desafio consiste no desenvolvimento de uma API para um Banco Digital.
 - VSCODE
 - GIT
 
-## Imagens do desenvolvimento
-!([]https://github.com/gsevirino/sistema-bancario/blob/main/Images/WhatsApp%20Image%202023-10-02%20at%2016.06.02.jpeg)
