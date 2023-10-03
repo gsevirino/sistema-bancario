@@ -29,5 +29,12 @@ O desafio consiste no desenvolvimento de uma API para um Banco Digital.
 - VSCODE
 - GIT
 
+
+## Imagens
 <img src="https://github.com/gsevirino/sistema-bancario/blob/main/Images/1.jpeg" alt="your_alternative_text" width="" height="">;
-<img src="https://github.com/gsevirino/sistema-bancario/blob/main/Images/1.jpeg" alt="your_alternative_text" width="" height="">;
+<img src="https://github.com/gsevirino/sistema-bancario/blob/main/Images/2.jpeg" alt="your_alternative_text" width="" height="">;
+<img src="https://github.com/gsevirino/sistema-bancario/blob/main/Images/3.jpeg" alt="your_alternative_text" width="" height="">;
+<img src="https://github.com/gsevirino/sistema-bancario/blob/main/Images/4.jpeg" alt="your_alternative_text" width="" height="">;
+<img src="https://github.com/gsevirino/sistema-bancario/blob/main/Images/5.jpeg" alt="your_alternative_text" width="" height="">;
+<img src="https://github.com/gsevirino/sistema-bancario/blob/main/Images/6.jpeg" alt="your_alternative_text" width="" height="">;
+<img src="https://github.com/gsevirino/sistema-bancario/blob/main/Images/7.jpeg" alt="your_alternative_text" width="" height="">;
