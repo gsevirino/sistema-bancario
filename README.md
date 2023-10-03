@@ -1,10 +1,11 @@
-## Descrição do desafio
+![]([https://i.imgur.com/xG74tOh.png](https://cdn-icons-png.flaticon.com/512/10069/10069014.png)
 
-Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
-Sua primeira tarefa como desenvolvedor é criar uma API para um Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
+## Descrição do repositório
 
-Seu papel é construir uma RESTful API que permita:
+Este repositório faz parte do desafio de código - módulo 2 do curso de  Desenvolvimento Back-End da instituição Cubos Academy,
+O desafio consiste no desenvolvimento de uma API para um Banco Digital. 
 
+## Funcionalidades
 -   Criar conta bancária
 -   Listar contas bancárias
 -   Atualizar os dados do usuário da conta bancária
@@ -14,3 +15,17 @@ Seu papel é construir uma RESTful API que permita:
 -   Transferir valores entre contas bancárias
 -   Consultar saldo da conta bancária
 -   Emitir extrato bancário
+
+
+## Linguagens e ferramentas utilizadas
+- JAVASCRIPT
+- NODEJS
+- PROTOCOLO HTTP
+- JSON
+- NPM
+- BIBLIOTECAS NODEMON E EXPRESS
+- INSOMNIA
+- VSCODE
+- GIT
+
+## Imagens do desenvolvimento
