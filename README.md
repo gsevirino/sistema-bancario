@@ -1,4 +1,4 @@
-![](https://i.imgur.com/xG74tOh.png)
+![](https://cdn-icons-png.flaticon.com/512/10069/10069014.png)
 
 # Desafio Módulo 2 - Back-end
 
